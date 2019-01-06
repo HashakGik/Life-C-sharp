@@ -1,0 +1,5 @@
+*~
+Life/obj
+Life/bin/Debug
+Life/bin/Release/*
+!Life/bin/Release/Life.exe
